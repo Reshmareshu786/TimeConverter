@@ -1,0 +1,61 @@
+.addImage {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+    background-size: cover;
+    height: 150vh;
+    font-family: "Open Sans";
+}
+
+.timeConverter {
+    font-weight: 800;
+    padding: 2rem 5px 0 2rem;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.conversionMessage {
+    padding: 10px 5px 0 2rem;
+    font-weight: 700;
+    font-size: 19px;
+    color: #f5f7fa;
+}
+
+.userInput {
+    padding: 12px 5px 0 2rem;
+    font-weight: 600;
+    font-size: 14px;
+    color: #f5f7fa;
+}
+
+.timeSize {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Open Sans";
+}
+
+.convertBtn {
+    background-color: #f5f7fa;
+    font-family: "Open Sans";
+    font-size: 14px;
+    border-radius: 6px;
+    width: 160px;
+    height: 38px;
+    color: black;
+    font-weight: 500;
+}
+
+.resultBorder {
+    text-align: center;
+}
+
+.resultButton {
+    background-color: transparent;
+    color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    height: 50px;
+    width: 150px;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    padding: 3px;
+}
